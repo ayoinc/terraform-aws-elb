@@ -1,5 +1,7 @@
 # AWS Elastic Load Balancer (ELB) Terraform module
 
+[![HIPAA](https://app.soluble.cloud/api/v1/public/badges/4386ecd0-fa91-46a7-9ea3-055d91cf1a8f.svg)](https://app.soluble.cloud/repos/details/github.com/ayoinc/terraform-aws-elb)  [![CIS](https://app.soluble.cloud/api/v1/public/badges/4f870c08-ca44-4cd4-b211-2588fad2ac74.svg)](https://app.soluble.cloud/repos/details/github.com/ayoinc/terraform-aws-elb)  [![IaC](https://app.soluble.cloud/api/v1/public/badges/5946658e-a0ea-46e7-bd42-94924c057e68.svg)](https://app.soluble.cloud/repos/details/github.com/ayoinc/terraform-aws-elb)  
+
 Terraform module which creates Classic Load Balancer (also called ELB) resources on AWS.
 
 ## Usage
